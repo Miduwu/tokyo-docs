@@ -27,7 +27,7 @@ Functions are practically the same as variables, only they need to have somethin
 ## Example
 If in a part of our welcome message we write **`{random:thing1,thing2,thing3,...}`** this text will be replaced to a random thing from those provided (The separator is `,`)
 ## Full list (Functions):
-|     Nombre      |     Description                             |     Ussag                   |     Example           |
+|     Nombre      |     Description                             |     Usage                   |     Example           |
 |-----------------|---------------------------------------------|-----------------------------|-----------------------|
 | `{random:}`     |Returns a random element from those provided | `{random:thing1,thing2,...}`|`{random:yes,no,maybe}`|
 | `{number:}`     |Returns a random number between two provided | `{number:min,max}`          |`{number:1,100}`       |
@@ -45,7 +45,7 @@ __***Syntax:***__
 |       Usage           |       Example                 |
 |-----------------------|-------------------------------|
 |`{title:text*}`        |`{title:My title}`             |
-|`{description:text*}`  |`{description:Mi description}` |
+|`{description:text*}`  |`{description:My description}` |
 |`{image:URL*}`         |`{image:https://...}`          |
 |`{thumbnail:URL*}`     |`{thumbnail:https://...}`      |
 |`{color:Hex code*}`    |`{color:#0000ff}`              |
