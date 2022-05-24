@@ -60,5 +60,5 @@ Puedes usar todo esto (Variables, Funciones y Embeds) para personalizar tus mens
 {description:**{USER.TAG}** acaba de mejorar el servidor!}{author:{USER.TAG},{USER.AVATAR}}{color:#0000ff}{image:https://api.miduwu.ga/image/boost?image={USER.AVATAR}}{footer:{SERVER.NAME},{SERVER.ICON}}
 ```
 **Resultado:**
+
 ![image](https://user-images.githubusercontent.com/83442808/169925674-6937684d-4b04-410b-98f7-ef778066b976.png)
-)
